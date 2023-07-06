@@ -1,0 +1,17 @@
+
+
+CD                             Both                                DVD
+Spin Speed()            Spin(behavior/method)               Spin Speed()
+                        play(method)
+                        pause(method)
+                        Data (attribute -getter/setter)
+                        AddData(method)
+MaxSize(700MB)          MaxDataSize (attribute)             MaxSize(10GB)
+                        ActualDataSize (attribute)
+                        Readable (attribute)
+                        Writeable (attribute)
+                        Name (attribute)
+
+Abstract Class you build like a class
+
+Interface only the structure of the methods, can have CONSTANT attributes
